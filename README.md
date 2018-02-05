@@ -1,4 +1,4 @@
 Download
 Download via Gradle:
 
-compile 'com.github.stfalcon:bottomtablayout:0.3'
+compile 'com.binhanh.android:protocol:1.0'
