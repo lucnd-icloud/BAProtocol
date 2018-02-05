@@ -1,4 +1,4 @@
 Download
 Download via Gradle:
 
-compile 'com.binhanh.android:protocol:1.0'
+compile 'com.binhanh.android:protocol:1.0.0'
